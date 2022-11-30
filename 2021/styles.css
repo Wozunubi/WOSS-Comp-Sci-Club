@@ -1,0 +1,13 @@
+.importantTitle {
+    color: rgb(178, 235, 235);
+
+}
+
+.titles .importantTitle {
+    color: blue;
+    
+}
+
+h1 {
+    font-weight: 100;
+}
