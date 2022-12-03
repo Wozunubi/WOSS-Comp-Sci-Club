@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+}
+
+p {
+    color: red;
+    font-size: 50px;
+}
+
+div p {
+    color: yellow;
+}
+
+.favouriteColour {
+    color: blue;
+}
+
+#special {
+    background-color: green;
+}
+
+nav {
+    background-color: grey;
+}
+
+nav ul li {
+    display: inline;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+table, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+    background-color: cyan;
+}
+
+th {
+    background-color: aquamarine;
+}

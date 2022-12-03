@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: blue;
+}
+
+h1 {
+    color: yellow;
+}
+
+#special {
+    color: green;
+}
+
+.big {
+    font-size: 40px;
+    color: red;
+}
+
+table, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: green;
+}
+
+tr:nth-child(even) {
+    background-color: red;
+}
+
+tr:nth-child(odd) {
+    background-color: orange;
+}
+
+nav {
+    background-color: grey;
+    position: fixed;
+}
+
+a {
+    color:blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    font-size: 100px;
+}
+
+div {
+    background-color: green;
+    padding: 20px;
+}
